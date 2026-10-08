@@ -11,4 +11,4 @@
 #define CALENDAR_URL "https://script.google.com/macros/s/YOUR_DEPLOYMENT_ID/exec?key=YOUR_SECRET_KEY"
 
 // Default city for the weather screen, as "City,CC"
-#define DEFAULT_CITY "London,GB"
+#define DEFAULT_CITY "Kampala, UG"
